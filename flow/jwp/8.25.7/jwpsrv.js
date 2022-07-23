@@ -1926,9 +1926,9 @@
         }
     }()
       , ia = {
-        main: "cabin.nei.st/lagoon/images/freeze",
-        main_fallback: "cabin.nei.st/lagoon/images/freeze",
-        meta: "cabin.nei.st/lagoon/images/freeze"
+        main: "cabin.nei.st/lagoon/flow/jwp",
+        main_fallback: "cabin.nei.st/lagoon/flow/jwp",
+        meta: "cabin.nei.st/lagoon/flow/jwp"
     }
       , oa = function() {
         function r(e, a, t, n) {
