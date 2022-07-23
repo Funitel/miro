@@ -1949,7 +1949,7 @@
         return ra(r, [{
             key: "path",
             get: function() {
-                return this.host + "/" + this.bucket + "/Ypass20220623.png"
+                return this.host + "/" + this.bucket + "/ping.gif"
             }
         }, {
             key: "url",
